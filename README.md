@@ -13,4 +13,4 @@ This repository contains python scripts for analyzing HYPE outputs.
 Output_plot creates a plot with the computed flows from HYPE, measured natural flows and 
 measured precipitation. It is compared on a weekly scale.
 
-
+Error_analysis allows for the computation of Mean Squared Error, Nash Sutcliffe Efficiency and Kling-Gupta Efficiency (2012)
